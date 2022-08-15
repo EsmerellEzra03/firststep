@@ -1,3 +1,7 @@
 second try
 <p>new change</p>
+<<<<<<< HEAD
 <p>try sendiri lagi</p>
+=======
+<h1>Added in staging</h1>
+>>>>>>> e1d1dfd2954cbca76de0d572afc221061ef2784c
